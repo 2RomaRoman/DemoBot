@@ -1,0 +1,90 @@
+2023-03-29 00:09:44,827 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 19596 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 00:09:44,834 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 00:09:44,835 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 00:09:46,200 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.699 seconds (process running for 2.265)
+2023-03-29 00:10:05,501 INFO i.p.S.s.TelegramBot [https://t.me/imageTestTask_bot Telegram Executor] Replied to user Roman 441600365
+2023-03-29 00:10:48,307 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 11912 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 00:10:48,309 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 00:10:48,309 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 00:10:49,705 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.718 seconds (process running for 2.288)
+2023-03-29 00:10:56,574 INFO i.p.S.s.TelegramBot [https://t.me/imageTestTask_bot Telegram Executor] Replied to user Roman 441600365
+2023-03-29 00:12:12,271 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 20560 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 00:12:12,273 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 00:12:12,273 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 00:12:13,785 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.85 seconds (process running for 2.451)
+2023-03-29 00:12:19,032 INFO i.p.S.s.TelegramBot [https://t.me/imageTestTask_bot Telegram Executor] Replied to user Roman 441600365
+2023-03-29 00:13:10,645 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 8816 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 00:13:10,647 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 00:13:10,647 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 00:13:12,082 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.772 seconds (process running for 2.371)
+2023-03-29 00:13:14,372 INFO i.p.S.s.TelegramBot [https://t.me/imageTestTask_bot Telegram Executor] Replied to user Roman 441600365
+2023-03-29 00:13:15,775 INFO i.p.S.s.TelegramBot [https://t.me/imageTestTask_bot Telegram Executor] Replied to user Roman 441600365
+2023-03-29 00:23:45,177 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 7972 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 00:23:45,179 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 00:23:45,179 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 00:23:46,710 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.926 seconds (process running for 2.567)
+2023-03-29 00:23:49,871 INFO i.p.S.s.TelegramBot [https://t.me/imageTestTask_bot Telegram Executor] Replied to user Roman 441600365
+2023-03-29 00:24:18,074 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 15160 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 00:24:18,077 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 00:24:18,078 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 00:24:19,566 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.836 seconds (process running for 2.508)
+2023-03-29 00:24:50,524 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 7008 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 00:24:50,526 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 00:24:50,526 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 00:24:51,967 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.767 seconds (process running for 2.328)
+2023-03-29 01:00:43,866 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 22172 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 01:00:43,868 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 01:00:43,869 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 01:00:45,384 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.85 seconds (process running for 2.421)
+2023-03-29 01:14:52,865 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 13412 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 01:14:52,867 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 01:14:52,867 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 01:14:54,282 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.81 seconds (process running for 2.398)
+2023-03-29 01:16:21,540 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 12868 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 01:16:21,542 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 01:16:21,543 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 01:16:22,954 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.758 seconds (process running for 2.427)
+2023-03-29 01:22:05,408 ERROR o.t.t.u.DefaultBotSession [https://t.me/imageTestTask_bot Telegram Connection] Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+org.telegram.telegrambots.meta.exceptions.TelegramApiRequestException: Error executing org.telegram.telegrambots.meta.api.methods.updates.GetUpdates query: [409] Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseInternal(PartialBotApiMethod.java:54)
+	at org.telegram.telegrambots.meta.api.methods.PartialBotApiMethod.deserializeResponseArray(PartialBotApiMethod.java:39)
+	at org.telegram.telegrambots.meta.api.methods.updates.GetUpdates.deserializeResponse(GetUpdates.java:83)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.getUpdatesFromServer(DefaultBotSession.java:258)
+	at org.telegram.telegrambots.updatesreceivers.DefaultBotSession$ReaderThread.run(DefaultBotSession.java:188)
+2023-03-29 01:25:55,648 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 11292 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 01:25:55,650 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 01:25:55,650 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 01:25:57,113 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.799 seconds (process running for 2.406)
+2023-03-29 01:28:43,950 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 23204 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 01:28:43,951 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 01:28:43,952 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 01:28:45,371 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.752 seconds (process running for 2.319)
+2023-03-29 01:43:23,416 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 14548 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 01:43:23,417 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 01:43:23,418 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 01:43:24,931 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.842 seconds (process running for 2.418)
+2023-03-29 01:48:30,855 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 25380 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 01:48:30,856 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 01:48:30,857 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 01:48:32,229 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.691 seconds (process running for 2.258)
+2023-03-29 01:48:32,534 INFO i.p.S.s.TelegramBot [https://t.me/imageTestTask_bot Telegram Executor] Replied to user Юля 238186740
+2023-03-29 01:48:32,600 ERROR i.p.S.s.TelegramBot [https://t.me/imageTestTask_bot Telegram Executor] Error occurred: Error executing org.telegram.telegrambots.meta.api.methods.send.SendMessage query: [403] Forbidden: bot was blocked by the user
+2023-03-29 01:48:36,095 INFO i.p.S.s.TelegramBot [https://t.me/imageTestTask_bot Telegram Executor] Replied to user Юля 238186740
+2023-03-29 01:50:48,214 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 24704 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 01:50:48,215 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 01:50:48,216 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 01:50:49,709 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.857 seconds (process running for 2.446)
+2023-03-29 01:50:54,711 INFO i.p.S.s.TelegramBot [https://t.me/imageTestTask_bot Telegram Executor] Replied to user Roman 441600365
+2023-03-29 01:51:22,370 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 19992 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 01:51:22,372 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 01:51:22,372 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 01:51:23,751 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.691 seconds (process running for 2.273)
+2023-03-29 01:51:45,891 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 11000 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 01:51:45,893 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 01:51:45,894 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 01:51:47,336 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 1.836 seconds (process running for 2.448)
+2023-03-29 01:51:49,974 INFO i.p.S.s.TelegramBot [https://t.me/imageTestTask_bot Telegram Executor] Replied to user Roman 441600365
+2023-03-29 12:04:19,280 INFO i.p.S.SpringDemoBotApplication [main] Starting SpringDemoBotApplication using Java 17.0.6 with PID 22072 (C:\Users\mrsil\Desktop\SpringDemoBot\target\classes started by mrsil in C:\Users\mrsil\Desktop\SpringDemoBot)
+2023-03-29 12:04:19,283 DEBUG i.p.S.SpringDemoBotApplication [main] Running with Spring Boot v3.0.5, Spring v6.0.7
+2023-03-29 12:04:19,284 INFO i.p.S.SpringDemoBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2023-03-29 12:04:21,807 INFO i.p.S.SpringDemoBotApplication [main] Started SpringDemoBotApplication in 3.34 seconds (process running for 5.162)
